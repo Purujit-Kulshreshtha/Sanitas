@@ -1,5 +1,6 @@
 # Sanitas
 https://sanitas.netlify.app/
+
 Sanitas (Latin for 'health') is a toll that allows you to stay motivated to exercise and work-out in order to stay healthy by insitiating a reward and competition system in the form of a game while also allowing you to keep track of your calory intake and exercise sessions. The purpose of the game is to slowly build the best grassy medow. 
 Sanitas is completely browser based; it does not require you to install any apps or additional files. All data is securely stored in the cloud (MongoDB Atlas and GCP). The web-application is highly unlikely to be "down" for any reason since it's hosted completely on the cloud using reliable services; Netlify for front-end and Heroku for back-end. 
 
