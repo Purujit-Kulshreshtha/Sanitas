@@ -147,7 +147,7 @@ const Tracker = () => {
 				<div className="data-container">
 
 					<div className="table-container">
-						<h3 className="table-heading">Calory Intake</h3>
+						<h3 className="table-heading">Calorie Intake</h3>
 
 					{/*time of consumption*/}
 					{/*food item*/}

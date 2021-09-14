@@ -41,7 +41,10 @@ build/Release
 node_modules/
 jspm_packages/
 server/node_modules/
+server/.git/
+server/.gitignore
 client/sanitas/node_modules/
+client/sanitas/build/
 
 # TypeScript v1 declaration files
 typings/

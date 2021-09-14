@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API = axios.create({baseURL: "http://localhost:5000"})
+const API = axios.create({baseURL: "https://sanitas--api.herokuapp.com/"})
 
 export const getUsers = () => API.get(`/user`);
 export const getUser = (id) => API.get(`/user/${id}`);

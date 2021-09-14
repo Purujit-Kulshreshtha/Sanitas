@@ -17,7 +17,7 @@ const About = () => {
 
 					<div className="about-card">
 						<h1 className="card-heading">How it works?</h1>
-						<p className="card-text">The tracking system lets you make entries for your calory consumption and work out. Where Sanitas thrives is in motivation. It instigates a simple reward system in the form of a game. Share progress with your friends and family for an extra dose of motivation in the form of competition.</p>
+						<p className="card-text">The tracking system lets you make entries for your calorie consumption and work out. Where Sanitas thrives is in motivation. It instigates a simple reward system in the form of a game. Share progress with your friends and family for an extra dose of motivation in the form of competition.</p>
 					</div>
 
 					<div className="about-card">
